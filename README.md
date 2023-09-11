@@ -20,9 +20,9 @@ spacebar, so I'm modifying it for 6.25U one.
 - +- 60 diodes
 - M3 screws
 ## Plans for this repo
-[ ] fix readme
-[ ] Design the keyboard in OpenSCAD
-[ ] Print it
-[ ] Wire it
-[ ] Write QMK firmware
-[ ] Edit the firmware for use with Vial
+- [ ] fix readme
+- [ ] Design the keyboard in OpenSCAD
+- [ ] Print it
+- [ ] Wire it
+- [ ] Write QMK firmware
+- [ ] Edit the firmware for use with Vial
