@@ -1,6 +1,6 @@
 # HCKB
 Handwired, 3D printed clone of HHKB.
-<br>
+## The story behind
 Realizing that I bit off more than I could chew with the [Kaiju75](https://github.com/sch3fr/Kaiju75) project, which I 
 haven't touched in months because I feel overwhelemed whenever I think about it, I decided to start with something simpler.
 <br>
