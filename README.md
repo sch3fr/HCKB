@@ -4,7 +4,7 @@ Handwired, 3D printed clone of HHKB.
 Realizing that I bit off more than I could chew with the [Kaiju75](https://github.com/sch3fr/Kaiju75) project, which I 
 haven't touched in months because I feel overwhelemed whenever I think about it, I decided to start with something simpler.
 <br>
-Happy Clone Keyboard is, as the name suggests, a clone of the famous HHKB. 
+Happy Cloning Keyboard is, as the name suggests, a clone of the famous HHKB. 
 <br>
 I am fascinated with the HHKB layout and history, but as a college student I can not afford to drop such money for a 
 keyboard I am not sure I'd use. Since, you know, the whole weird layout and stuff. So I decided to design my own clone

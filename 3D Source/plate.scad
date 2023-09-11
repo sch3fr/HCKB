@@ -35,6 +35,10 @@ module mods(){  //not sure if any of those is correct
     //spacebar
     translate([287/2-7, 0, -7]) hole(); //idk tbh
     
+    //REALLY unsure about those
+    translate([(287/2)-(287/4)-7, 0, -7]) hole();
+    translate([(287/2)+(287/4)+7, 0, -7]) hole();
+    
     //todo 2 keys left of spacebar and 2 keys right of spacebar
 }
 
