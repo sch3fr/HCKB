@@ -32,12 +32,17 @@ module mods(){  //not sure if any of those is correct
     translate([(2.25*19.05)+191+(2.25*19.05/2), 38.1, -7]) hole(); //probably wrong
     //Pipe
     translate([267-(1.5/2)-7, 57.15, -7]) hole();   //probably wrong
+    
+    //LAlt
+    translate([(19.05*1.75), 0, -7]) hole();        //probably good
+    //LOption
+    translate([(19.05*3+7), 0, -7]) hole();
+    
+    
     //spacebar
     translate([287/2-7, 0, -7]) hole(); //idk tbh
     
-    //REALLY unsure about those
-    translate([(287/2)-(287/4)-7, 0, -7]) hole();
-    translate([(287/2)+(287/4)+7, 0, -7]) hole();
+
     
     //todo 2 keys left of spacebar and 2 keys right of spacebar
 }
